@@ -1,0 +1,7 @@
+.container{
+    width: 1080px;
+}
+header{
+    width: 100%;
+    background-image: url("../images/Image.jpg");
+}
